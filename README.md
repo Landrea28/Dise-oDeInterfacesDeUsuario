@@ -1,4 +1,78 @@
-# Laboratorio 3: Diseño de Interfaces de Usuario
+> **Rama:** `Taller4`  
+> **Asignatura:** Diseño de Interfaces de Usuario  
+> **Fecha:** Marzo 2026
+> **Rama Main:** https://github.com/Landrea28/Dise-oDeInterfacesDeUsuario/tree/main 
+
+# Taller 4 - Diseño de Interfaces de Usuario
+
+Este directorio corresponde al desarrollo del Taller 4 dentro del repositorio de la materia Diseño de Interfaces de Usuario.
+
+La idea de este repositorio es mantener cada taller organizado por ramas para que el contenido quede separado, fácil de revisar y más claro para cualquier persona que entre desde GitHub. Si estás viendo la rama `Taller4`, este README describe exactamente qué contiene esta parte del proyecto.
+
+## Organización del repositorio
+
+El repositorio está ordenado por ramas.
+
+- Cada rama representa un taller o avance específico.
+- Esta rama, `Taller4`, contiene únicamente los archivos relacionados con el Taller 4.
+- Cada rama puede tener su propio README para explicar su objetivo, estructura y forma de uso.
+
+Con esta organización, una persona externa puede identificar rápidamente qué trabajo pertenece a cada entrega sin mezclar archivos de otros talleres.
+
+## Objetivo de esta rama
+
+En esta rama se presenta una interfaz web sencilla en HTML orientada a un ejercicio académico de maquetación y navegación básica entre vistas.
+
+El taller incluye:
+
+- Una vista principal con encabezado, menú lateral y contenido central.
+- Un formulario de registro de usuarios.
+- Una vista de reporte con datos tabulares.
+- Una página inicial cargada dentro de un `iframe`.
+
+## Estructura de archivos
+
+- `index(taller4).html`: archivo principal del taller. Desde aquí se carga la interfaz general.
+- `frontPrincipal.html`: contenido inicial que aparece en el área central.
+- `registroUsuario.html`: formulario para registrar información de usuario.
+- `reporte.html`: tabla de reporte con información de ejemplo.
+
+## Flujo de navegación
+
+El funcionamiento general del taller es el siguiente:
+
+1. Se abre `index(taller4).html`.
+2. La página muestra un encabezado superior, un menú lateral y una zona principal de contenido.
+3. En la zona central se carga por defecto `frontPrincipal.html`.
+4. Desde el menú lateral se puede cambiar el contenido del `iframe` para mostrar:
+   - `registroUsuario.html`
+   - `reporte.html`
+
+## Tecnologías utilizadas
+
+- HTML5
+- CSS interno
+- Navegación básica con `iframe`
+
+## Cómo visualizar este taller
+
+1. Clona el repositorio desde GitHub.
+2. Cambia a la rama `Taller4`.
+3. Abre el archivo `index(taller4).html` en tu navegador.
+
+Si se desea, también puede abrirse con una extensión como Live Server en Visual Studio Code para una visualización más cómoda.
+
+## Nota sobre la organización general
+
+Este README busca que cualquier persona que revise el repositorio entienda dos cosas de inmediato:
+
+- Qué representa esta rama dentro del repositorio.
+- Qué hace este taller y cómo está compuesto.
+
+La intención es mantener un repositorio más ordenado, donde cada rama documente su contenido de forma independiente.> **Rama:** `MelodiaSteam`  
+> **Asignatura:** Diseño de Interfaces de Usuario  
+> **Fecha:** Febrero 2026
+> **Rama Main:** https://github.com/Landrea28/Dise-oDeInterfacesDeUsuario/tree/main 
 
 ## Proyecto: Melodia Stream - Plataforma de Streaming Especializada
 

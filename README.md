@@ -1,4 +1,7 @@
-# Laboratorio 3: Diseño de Interfaces de Usuario
+> **Rama:** `MelodiaSteam`  
+> **Asignatura:** Diseño de Interfaces de Usuario  
+> **Fecha:** Febrero 2026
+> **Rama Main:** https://github.com/Landrea28/Dise-oDeInterfacesDeUsuario/tree/main 
 
 ## Proyecto: Melodia Stream - Plataforma de Streaming Especializada
 
